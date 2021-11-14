@@ -1,1 +1,18 @@
+#topOfPage {
+  background-image: url("./images/delphi.jpg");
+  width: 100vw;
+  height: 175px;
+  margin: 15px;
+  padding: 0px;
+  border: 5px solid #eee;
+}
 
+#header-banner {
+  
+}
+
+<img
+        id="header-banner"
+        src="./images/delphi.jpg"
+        alt="View of distant mountains in dim light and fog"
+      />
