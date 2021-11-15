@@ -11,8 +11,9 @@
   
 }
 
-<img
-        id="header-banner"
-        src="./images/delphi.jpg"
-        alt="View of distant mountains in dim light and fog"
-      />
+.latex {
+  display: inline;
+  position: relative;
+  top: 6px;
+  height: 1em;
+}
